@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# PyTorch / Models
+*.pt
+*.bin
+*.safetensors
+best_fake_news_model/
+.cache/
+
+# Data & OS
+*.csv
+.DS_Store
+Thumbs.db
